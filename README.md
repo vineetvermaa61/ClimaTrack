@@ -1,5 +1,4 @@
-Weather App - Location Aware and World Traveler
-This dynamic weather app provides real-time weather information at your fingertips, catering to both the homebody and the world traveler.
+This weather app provides real-time weather information at your fingertips, catering to both the homebody and the world traveler.
 
 Features
 Location Aware: With your permission, the app utilizes geolocation to display current temperature, humidity, wind speed, and cloud cover for your current location.
